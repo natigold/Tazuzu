@@ -25,6 +25,9 @@
         <module name="Tazuzu" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Tazuzu" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
